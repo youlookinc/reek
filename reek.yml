@@ -12,8 +12,5 @@
     Attribute:
       enabled: false
 
-    PrimaDonnaMethod:
-      enabled: false
-
   exclude_paths:
     - db/
