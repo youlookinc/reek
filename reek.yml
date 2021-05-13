@@ -3,6 +3,9 @@
     IrresponsibleModule:
       enabled: false
 
+    FeatureEnvy:
+      enabled: false
+
     DuplicateMethodCall:
       max_calls: 3
 
