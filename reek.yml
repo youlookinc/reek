@@ -1,0 +1,16 @@
+---
+  detectors:
+    IrresponsibleModule:
+      enabled: false
+
+    DuplicateMethodCall:
+      max_calls: 3
+
+    Attribute:
+      enabled: false
+
+    PrimaDonnaMethod:
+      enabled: false
+
+  exclude_paths:
+    - db/
