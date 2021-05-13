@@ -13,4 +13,4 @@
       enabled: false
 
   exclude_paths:
-    - db/
+    - 'db/**/*'
